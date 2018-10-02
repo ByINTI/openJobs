@@ -1,7 +1,6 @@
 # FrontEnd Developer (Vue.JS)
 
 A equipe de frontend da INTI está crescendo e precisamos de você! Você sabe de JavaScript, sabe de Vue.JS e sabe sobre UX/UI? Que tal fazer parte do time?
-![Job Alert!](https://media.giphy.com/media/1d7E5ogkVOdY4yiMPY/giphy.gif)
 
 ### Requisitos
 - Motivação por grandes desafios;
