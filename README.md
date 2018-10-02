@@ -9,4 +9,4 @@ Se você quer fazer parte da disrupção do mercado, vem conhecer a gente!
 
 # Vagas Abertas
 
-- FrontEnd Developer ()
+- FrontEnd Developer (https://github.com/ByINTI/openJobs/blob/master/FrontEnd.md)
