@@ -44,4 +44,4 @@ Ambiente informal, descontraído e acelerado
 
 ### Como se candidatar
 
-Envie um email para heitor(at)byinti(dot)com ou nicolle(at)byinti(dot)com com o assunto `[Vaga FrontEnd] - (Seu Nome)` 
+Envie um email para heitor(at)byinti(dot)com com o assunto `[Vaga FrontEnd] - (Seu Nome)` 
